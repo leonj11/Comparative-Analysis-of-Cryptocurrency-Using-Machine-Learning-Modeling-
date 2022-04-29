@@ -6,7 +6,7 @@ The project contains 3 python files
 In order to Load the data run the file: Yahoo Finance Data Retrieval .ipynb which loads the database for the project.
 
 # Market Analysis 
-
+Run the code named: Market Analysis.ipynb
 
 # Neural Network 
 
