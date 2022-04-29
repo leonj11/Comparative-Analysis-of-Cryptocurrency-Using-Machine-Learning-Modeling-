@@ -15,6 +15,7 @@ Prerequisites to install:
 Install Tensorflow libraires. If you are using Anaconda you can intall Tensorflow form the command pront by runnig the following command: 
 
 pip install tensorflow #CPU only
+
 pip install tensorflow-gpu #For GPU support 
 
 ## What to know about the NN Model:
